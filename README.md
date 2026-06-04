@@ -70,3 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# reactj" 
 "# loading" 
+
+
+---
+
+## Developer Profile
+This repository is created and maintained by **[Eslavath Narasimha Naik](https://github.com/NAIKAA9)**.
