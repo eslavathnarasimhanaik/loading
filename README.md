@@ -1,4 +1,4 @@
-﻿# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -77,5 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Developer Profile
 This repository is created and maintained by **[Eslavath Narasimha Naik](https://github.com/NAIKAA9)**.
 - **GitHub**: [NAIKAA9](https://github.com/NAIKAA9)
-- **LinkedIn**: [Narasimha Naik](https://www.linkedin.com/in/naikaa9)
+- **LinkedIn**: [Narasimha Naik](https://www.linkedin.com/in/eslavathnarasimhanaik)
 
